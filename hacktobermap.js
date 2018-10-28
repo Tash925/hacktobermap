@@ -1038,6 +1038,12 @@ var hacktobermap = [
     longitude: -83.24
   },
   {
+    name: "Tasha",
+    location: "Maryland, USA",
+    latitude: 39.045753,
+    longitude: -76.641273
+  },
+  {
     name: "Vadim Slepich",
     location: "Minsk, Belarus",
     latitude: 53.904541,
